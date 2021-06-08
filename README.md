@@ -19,3 +19,7 @@ Repo for BD in UP
 ## Shells
 
 [Bash to push functions to Cloud Functions](push_function.sh)
+
+## Dashboard
+
+[In here](https://datastudio.google.com/reporting/4e4fdf2f-7836-4e84-8845-e8efb61d47a0)
